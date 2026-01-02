@@ -1316,7 +1316,7 @@ List<Event> sampleEvents = [
         Sight(text: 'Any'),
       ],
       positions: [
-        Position(text: 'Standing unsupported, Standing Using Barricade, Kneeling, Sitting'),
+        Position(text: 'Standing unsupported<>Standing Using {Barricade}<>Kneeling<>Sitting'),
       ],
       readyPositions: [
         ReadyPosition(text: '45 Degrees'),
