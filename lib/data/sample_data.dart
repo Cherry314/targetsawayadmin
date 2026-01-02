@@ -1,5 +1,4 @@
 import 'package:targetsawayadmin/models/equipment.dart';
-
 import '../models/loading.dart';
 import '../models/range_equipment.dart';
 import '../models/scoring.dart';
